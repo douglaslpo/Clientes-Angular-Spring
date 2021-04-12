@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf8c398b-243f-48b1-8728-4680a39c1089" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clientes-Angular-Spring/src/main/java/io/github/douglaslpo/clientes/model/entity/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clientes-Angular-Spring/src/main/java/io/github/douglaslpo/clientes/model/entity/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clientes-Angular-Spring/src/main/java/io/github/douglaslpo/clientes/rest/ClienteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clientes-Angular-Spring/src/main/java/io/github/douglaslpo/clientes/rest/ClienteController.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +102,12 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion.SSH" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\clientes\Clientes-Angular-Spring" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -193,6 +199,8 @@
   <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\Douglas\AppData\Roaming\Subversion</configuration>
+    <option name="sshConnectionType" value="PASSWORD" />
+    <option name="sshUserName" value="git@github.com:douglaslpo/Clientes-Angular-Spring.git" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -223,7 +231,7 @@
       <workItem from="1618058984268" duration="2064000" />
       <workItem from="1618187163127" duration="1925000" />
       <workItem from="1618194404753" duration="1142000" />
-      <workItem from="1618236412792" duration="7251000" />
+      <workItem from="1618236412792" duration="7608000" />
     </task>
     <task id="LOCAL-00001" summary="Committing the code, working with Git, Github and version control.">
       <created>1617833767994</created>
@@ -246,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618244868630</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Created implementations:&#10;Create, Read, Update and Delete (CRUD).&#10;From clients.">
+      <created>1618245433785</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1618245433785</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
