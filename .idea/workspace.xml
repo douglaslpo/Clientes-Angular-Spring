@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf8c398b-243f-48b1-8728-4680a39c1089" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/douglaslpo/clientes/rest/ClienteController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="bf8c398b-243f-48b1-8728-4680a39c1089" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clientes-Angular-Spring/target/classes/io/github/douglaslpo/clientes/ClientesApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/Clientes-Angular-Spring/target/classes/io/github/douglaslpo/clientes/ClientesApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clientes-Angular-Spring/target/classes/io/github/douglaslpo/clientes/model/entity/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/Clientes-Angular-Spring/target/classes/io/github/douglaslpo/clientes/model/entity/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clientes-Angular-Spring/target/classes/io/github/douglaslpo/clientes/model/entity/Servico.class" beforeDir="false" afterPath="$PROJECT_DIR$/Clientes-Angular-Spring/target/classes/io/github/douglaslpo/clientes/model/entity/Servico.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clientes-Angular-Spring/target/classes/io/github/douglaslpo/clientes/model/repository/ClienteRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/Clientes-Angular-Spring/target/classes/io/github/douglaslpo/clientes/model/repository/ClienteRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clientes-Angular-Spring/target/classes/io/github/douglaslpo/clientes/model/repository/ServicoRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/Clientes-Angular-Spring/target/classes/io/github/douglaslpo/clientes/model/repository/ServicoRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/douglaslpo/clientes/ClientesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/douglaslpo/clientes/ClientesApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/douglaslpo/clientes/model/entity/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/douglaslpo/clientes/model/entity/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/github/douglaslpo/clientes/ClientesApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/github/douglaslpo/clientes/ClientesApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/github/douglaslpo/clientes/model/entity/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/github/douglaslpo/clientes/model/entity/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/github/douglaslpo/clientes/model/entity/Servico.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/github/douglaslpo/clientes/model/entity/Servico.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/github/douglaslpo/clientes/model/repository/ClienteRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/github/douglaslpo/clientes/model/repository/ClienteRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/github/douglaslpo/clientes/model/repository/ServicoRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/github/douglaslpo/clientes/model/repository/ServicoRepository.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +48,7 @@
         <option value="DouglasLPO &lt;douglaslpo@bol.com.br&gt;" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Clientes-Angular-Spring" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -110,11 +94,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1617569300458" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Clientes-Angular-Spring" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -239,7 +223,7 @@
       <workItem from="1618058984268" duration="2064000" />
       <workItem from="1618187163127" duration="1925000" />
       <workItem from="1618194404753" duration="1142000" />
-      <workItem from="1618236412792" duration="6605000" />
+      <workItem from="1618236412792" duration="7251000" />
     </task>
     <task id="LOCAL-00001" summary="Committing the code, working with Git, Github and version control.">
       <created>1617833767994</created>
@@ -255,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617842563948</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created implementations:&#10;Create, Read, Update and Delete (CRUD).&#10;From clients.">
+      <created>1618244868629</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618244868630</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -305,7 +296,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Committing the code, working with Git, Github and version control." />
-    <option name="LAST_COMMIT_MESSAGE" value="Committing the code, working with Git, Github and version control." />
+    <MESSAGE value="Created implementations:&#10;Create, Read, Update and Delete (CRUD).&#10;From clients." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created implementations:&#10;Create, Read, Update and Delete (CRUD).&#10;From clients." />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
@@ -314,20 +307,5 @@
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
